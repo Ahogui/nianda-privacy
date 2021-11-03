@@ -39,15 +39,21 @@ The information you provide us by filling out the forms on the website or on the
 - Home or other physical address (City, Town, Neighborhood);
 -E-mail address;
 - Telephone number.
+- 
 2.2 - After approving this Agreement and proceeding with the registration process in the application (parent and teacher) or in the web software on behalf of the administrator or the school, the user confirms the transmission of his/her data in the System and their use during the identification to log in.
+
 2.3- The user of the application or software has the right to modify his personal data, except for the administrator who has the condition to contact and proceed to a verification phase with the IT department of Nianda, in order to know if the account really belongs to him.
+
 2.4- Payment
 The installation of the Nianda tracking application is free of charge for teachers, parents, and also for the school that would like to use our digital system. 
 However, in order to have access to their child's home school information via the Nianda application, parents are required to make a subscription either daily, monthly or yearly. The amount of each package will be displayed in the subscription section of the application.
 
 3- DISCLOSURE OF INFORMATION
+
 3.1- The user is required to provide his real identity in order to use the application Nianda. This information is used only for verification purposes and will not be disclosed to companies not associated with Nianda. We may disclose a student's school information to the Dren for secondary and primary education or to the ministries of each category of education (higher and technical or vocational).
+
 3.2- Information that is disclosed.
+
 Those school information of each student that are transmitted to each parent who follows his child through our application Nianda namely:
 - The hours of absence, delay or attendance
 - Grades of homework and tests.

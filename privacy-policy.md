@@ -11,14 +11,21 @@ Tutor: A person who is responsible for the care of a minor or an incapacitated p
 Administrator: A person who is qualified for administrative tasks, i.e. the person in charge of a school who agrees to use our application which tracks and digitizes all school information in order to allow parents of students to have access to certain school information concerning their child.
 
 1- CONDITIONS OF USE
+
 1.1 This document determines the rights and responsibilities of the user who has expressed his willingness to become a client of the digital system of Nianda.
-1.2. 1.2. The user has the right to accept or not to accept the proposed conditions that will later determine his participation or non-participation in the system.
+
+1.2. The user has the right to accept or not to accept the proposed conditions that will later determine his participation or non-participation in the system.
+
 1.3- The agreement is deemed bilateral and determines the provision of an information service to the user.
+
 1.4- How to use the Nianda application?
+
 1.4.1- For the parent
 The Nianda application works like any other application, after filling in the identification information below. Parents log in with their email and password, then they register their children through their parent account, to receive a registration code that they will transmit to the school of their child.
+
 1.4.2- for the teacher
 For the teacher the same registration procedure is the same as for the parent.
+
 1.4.3- for the administrator
 The administrator follows the same registration procedure as above but at the end of the registration process he creates the account of his school through his user account, then he configures the web application to create the classrooms by adding the students and teachers in each class.
 

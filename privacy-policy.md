@@ -31,6 +31,7 @@ The administrator follows the same registration procedure as above but at the en
 
 2- PERSONAL INFORMATION PROVIDED BY THE USER.
 (Parents, teacher and administrator)
+
 2.1 information collected
 The information you provide us by filling out the forms on the website or on the application. We collect and process its information that can be used to identify the user:
   - Last and First Names,
@@ -71,11 +72,11 @@ The host we have chosen provides the highest level of security and ensures avail
 5- MODIFICATION OF THE PRIVACY POLICY.
 Any changes to our Privacy Policy will be posted on this page, and such changes will be effective upon posting in the revised Privacy Policy.
 
-6- Cookies  
+6- COOKIES
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.
 This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service. 
 
-7- Contact Us  
+7- CONTACT US  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
 Contact Information:  
 Email: infosnianda@gmail.com
